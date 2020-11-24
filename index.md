@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP maine
+title: OWASP Maine
 tags: example-tag
 level: 4
 region: United States
