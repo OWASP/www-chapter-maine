@@ -3,8 +3,8 @@
 layout: col-sidebar
 title: OWASP Maine
 tags: example-tag
-level: 4
-region: United States
+Meetup: owasp-maine 
+region: North America
 
 ---
 
