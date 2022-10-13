@@ -7,7 +7,7 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Maine/)
 
 ### Code Repository
 * [repo](#)
