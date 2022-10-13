@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Maine
 tags: example-tag
-meetup-group: owasp-maine 
+meetup-group: OWASP-Maine
 region: North America
 
 ---
