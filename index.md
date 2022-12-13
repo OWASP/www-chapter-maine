@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Maine
+title: OWASP Portland, Maine
 tags: example-tag
 meetup-group: owasp-maine
 region: North America
